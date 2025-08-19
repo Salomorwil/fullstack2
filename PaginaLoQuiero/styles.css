@@ -1,0 +1,12 @@
+html {
+    background-color: rgb(255, 227, 227);
+}
+h1 {
+    font-family: Arial; 
+    font-size: 24px;
+}
+.extracto {
+    font-size: 14px; 
+    line-height: 1.6; 
+    color: #333;
+}
